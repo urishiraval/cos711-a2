@@ -5,3 +5,4 @@ report/abstract.synctex.gz
 *.fls
 *.log
 *.gz
+.DS_Store
