@@ -6,3 +6,5 @@ report/abstract.synctex.gz
 *.log
 *.gz
 .DS_Store
+*.bbl
+*.blg
